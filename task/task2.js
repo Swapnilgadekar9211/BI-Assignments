@@ -4,8 +4,8 @@ if ("0") {
   alert( 'Hello' );
 }*/
 //3.Creat grade calculator app
-let per=90
-let grade;
+let per=20
+let grade
 
 if (per>=90){
 
@@ -23,8 +23,8 @@ else if (per>=70){
 
 }
 
-else{
-  console.log("student is failed")
-}
+else if (per<40){
 
-let sub=
+  console.log("!..student is failed..!")
+
+}
