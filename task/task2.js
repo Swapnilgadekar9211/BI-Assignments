@@ -3,6 +3,8 @@
 if ("0") {
   alert( 'Hello' );
 }*/
+
+
 //3.Creat grade calculator app
 let per=20
 let grade
