@@ -1,4 +1,4 @@
-/*Problem no1
+/*Problem no2.1
 1.Will alert be shown?
 //-->Yes alert will shown because,
 when we give string values to if condition i.e string "0" it will consider 
@@ -8,7 +8,7 @@ if ("0") {
 }*/
 
 
-//Problem no2
+//Problem no2.2
 let NUMBER=Number(prompt("enter number"))
 if(NUMBER>0){
     alert("+1")
@@ -20,7 +20,7 @@ else if(NUMBER=0){
     alert("0")
 }
 
-//3.Creat grade calculator app
+//3.3Creat grade calculator app
 let per=20
 let grade
 
