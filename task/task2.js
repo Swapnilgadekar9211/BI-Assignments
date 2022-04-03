@@ -3,6 +3,7 @@
 //-->Yes alert will shown because,
 when we give string values to if condition i.e string "0" it will consider 
 it as a true value & it will show the o/p.
+
 if ("0") {
   alert( 'Hello' );
 }*/
