@@ -55,6 +55,8 @@ let b=2
 let result=a+b<4? "below":"over"
 console.log(result)
 
+//Problem no2.4
+
 //Problem no2.5
 
 if(browser="Edge"){
