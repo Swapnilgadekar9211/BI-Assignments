@@ -45,8 +45,10 @@ else if (per<40){
   console.log("!..student is failed..!")
 
 }
+
 //switch case
 //Problem no2.3
+
 console.log(4<4)
 let a=1
 let b=2
@@ -54,6 +56,7 @@ let result=a+b<4? "below":"over"
 console.log(result)
 
 //Problem no2.5
+
 if(browser="Edge"){
   alert("You've got the Edge!");
 }
@@ -65,6 +68,7 @@ else{
 }
 
 //Problem no2.6
+
 for(i=0;i<=100;i++){
   if(i%5==0 || i%3==0)
   console.log(i)
