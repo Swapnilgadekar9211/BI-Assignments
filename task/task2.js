@@ -57,6 +57,9 @@ console.log(result)
 
 //Problem no2.4
 
+let message = (login == 'Employee') ? 'Hello' :
+  (login == 'Director') ? 'Greet
+
 //Problem no2.5
 
 if(browser="Edge"){
@@ -74,8 +77,8 @@ else{
 for(i=0;i<=100;i++){
   if(i%5==0 || i%3==0)
   console.log(i)
-}*/
-
+}
+*/
 
 
 
